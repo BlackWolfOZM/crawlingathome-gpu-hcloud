@@ -10,3 +10,4 @@ pandas
 sqlalchemy
 sentence_transformers
 sentry_sdk
+transformers>=4.48.0 # not directly required, pinned by Snyk to avoid a vulnerability
